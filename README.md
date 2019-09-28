@@ -2,4 +2,4 @@
 
 These are the files used for the [2019 REST Fest](https://github.com/RESTFest/2019-Greenville/) talk on "A Look at Racket."
 
-[Presentation Scribble](./prensentation.scbl)
+[Presentation Scribble](presentation.scrbl)
